@@ -1,3 +1,4 @@
+#weekly assignment2
 diameter = float(input())
 pi = 3.14159 
 radius = diameter / 2
